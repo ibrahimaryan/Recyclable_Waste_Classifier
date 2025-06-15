@@ -1,0 +1,14 @@
+0 Nothing
+1 Daun kering
+2 Tulang ikan
+3 Sampah buah dan sayur
+4 Cangkang telur
+5 Botol Plastik
+6 Kaleng bekas
+7 Kardus bekas
+8 Sterofoam bekas
+9 Spons bekas
+10 Masker bekas
+11 Obat kadaluarsa
+12 Batu baterai
+13 Lampu mati
